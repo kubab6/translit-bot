@@ -1,5 +1,5 @@
 # translit-bot
-Simple Discord Bot for Transliteration
+Simple Python Discord Bot for Transliteration
 
 
 ## Installation:
